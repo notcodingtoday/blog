@@ -26,3 +26,7 @@ Watch the `src` files and regenerate blog
 ```bash
 npm run watch
 ```
+
+## Dependencies
+
+Outside dependencies listed in `package.json`, this expects that you have [http-server](https://www.npmjs.com/package/http-server) installed globally.
