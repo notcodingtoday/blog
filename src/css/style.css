@@ -1,0 +1,124 @@
+.blog {
+	font-family: 'Bitter', sans-serif;
+	-moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-font-smoothing: antialiased !important;
+	text-rendering: optimizeLegibility !important;
+	letter-spacing: .02em;
+	line-height: 1.5em;
+	max-width: 650px;
+	margin: auto;
+}
+
+.blog ol, .blog ul {
+	width: 80%;
+	margin: auto;
+	padding-inline-start: 0;
+}
+
+.blog ol li {
+	padding-left: 1em;
+}
+
+.blog div.center {
+	text-align: center;
+}
+
+.blog table {
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+hr {
+	border-top: 1px solid #e0e0e0;
+	border-bottom: none;
+}
+
+h1, h2 {
+	font-family: 'Barlow', sans-serif;
+	font-weight: 400;
+}
+
+footer {
+	margin-top: 3em;
+	padding-bottom: 3em;
+	color: #bdbdbd;
+}
+
+header .navigation {
+	padding: 1em 0 1em 0;
+}
+
+.post-list .entry {
+	margin-top: 2em;
+}
+
+.post-list .entry .date {
+	font-family: 'Inconsolata';
+}
+
+header .navigation a, .post-list .entry a {
+	background: black;
+	color: white;
+	text-decoration: none;
+	padding: 0.42em;
+}
+
+header .navigation a:hover, .post-list .entry a:hover {
+	background: white;
+	color: black;
+}
+
+header {
+	margin: 0 auto 5em auto;
+}
+
+footer {
+	margin: 5em auto 0 auto;
+}
+
+header, footer {
+	font-family: 'Barlow', sans-serif;
+	font-weight: 200;
+	text-align: center;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	max-width: 860px;
+}
+
+code {
+	font-family: 'Inconsolata';
+}
+
+pre {
+	background-color: #efefef;
+	padding: 1em;
+	overflow-x: scroll;
+}
+
+body {
+	margin: 1em;
+}
+
+::-webkit-scrollbar {
+  width: 0.4em;
+  height: 0.4em;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
