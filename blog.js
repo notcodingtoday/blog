@@ -81,6 +81,7 @@ function blogTemplate(data) {
   </extends>`
 }
 
+
 module.exports = {
   processBlog: processBlog,
   processCSS: processCSS,

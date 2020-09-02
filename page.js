@@ -100,7 +100,6 @@ function watchIndex() {
 }
 
 
-
 function indexTemplate(entries) {
 	return `<extends src="index.html">
 		<block name="entries">${entries}</block>
@@ -124,6 +123,7 @@ function pageTemplate(title, data) {
 		</block>
 	</extends>`
 }
+
 
 module.exports = {
 	watchIndex: watchIndex,
