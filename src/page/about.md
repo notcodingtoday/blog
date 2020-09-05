@@ -15,8 +15,10 @@
 ```
 Name  : Nocoto. Call me Noco.
 Job   : Software Engineer (SRE) at one of FAANG companies.
+Location    : Not US. Never planning to work or live there.
 Work years  : Around 3 years as of 2020.
 Music taste : Better than yours.
+Gaming taste   : Wide. Very wide.
 Political view : I equally make make fun of everyone :)
 ```
 
@@ -25,7 +27,6 @@ Political view : I equally make make fun of everyone :)
 - Scoping work and setting expectations.
 - Global-scale build and release systems.
 - Shaders.
-- ML.
 
 ## I am currently working on
 
@@ -34,8 +35,8 @@ Political view : I equally make make fun of everyone :)
 - [Mabinogi](https://mabinogi.nexon.net/) game clone.
 - Music covers.
 
-## Non-tech Hobbies
+## Non-tech & non-nerdy hobbies
 
-Playing electric guitar, gymming, swimming.
+Playing electric guitar, gymming, blogging.
 
 </md>
