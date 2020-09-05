@@ -58,7 +58,7 @@ The product stack seems solid and powerful. But unlike Nvidia's reveal, entire v
 
 Literally 5 minutes in, Intel is name-calling AMD as _imitators_. I am guessing Intel is calling out AMD's CPU naming scheme. Then, does copying AMD64 instruction make Intel an imitator? How about Intel coping bigLittle design (ie. Intel glue)? Anyway, only _imitators_ use benchmarks, but Intel plans to be the best in benchmarks (watch `05:04` of the video for a good laugh).
 
-I don't want this post to turn into '10 pages why Intel is unproductively whining', so I'll just stop here.
+I don't want this post to turn into '10 pages how Intel is unproductively whining', so I'll just stop here.
 
 To be fair, I get that Intel is scared of AMD. I'd also want to drive AMD out of mobile market while they are still new before desktop history repeats itself in mobile.
 
@@ -72,6 +72,6 @@ I'd never accept my work presented in such an unprofessional presentation. I am 
 
 ## Two announcements, one winner
 
-I think the videos got more eyeballs than usual thanks to 2020 being the year of staying indoors and few releases. Intel's PR failure got amplified thanks to COVID. That said, if there wasn't Nvidia's announcement, Intel's failure would not have looked this bad.. Or may be not.
+I think the videos got more eyeballs than usual thanks to 2020 being the year of staying indoors and few releases - ie. Intel's PR failure got amplified thanks to COVID. That said, if there wasn't Nvidia's announcement, Intel's failure would not have looked this bad.. May be not.
 
 </md>
