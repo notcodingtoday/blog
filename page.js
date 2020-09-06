@@ -48,7 +48,7 @@ function processIndex() {
 	let blogPosts = fs.readdirSync(common.BLOG_DIR)
 
 	blogPosts.forEach((file) => {
-		let path = "/blog/" + file.split(".")[0] + ".html"
+		let path = "/blog/" + file.split(".")[0]
 		let inputFile = common.BLOG_DIR + file
 		console.log(`Found blog post ${inputFile}`)
 
