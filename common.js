@@ -1,4 +1,6 @@
 const fs = require('fs');
+const htmlminify = require('html-minifier').minify;
+const cssminify = require('clean-css');
 
 
 function extractTitleFromPost(data) {
@@ -33,6 +35,20 @@ function readFile(file, callback) {
 
 
 function writeFile(outputFile, data, inputFile) {
+	if (outputFile.endsWith("html")) {
+		data = htmlminify(data, {
+			removeAttributeQuotes: true,
+			collapseWhitespace: true,
+			removeAttributeQuotes: true,
+			removeEmptyAttributes: true,
+			removeEmptyElements: true,
+			removeOptionalTags: true,
+		})
+	} else if (outputFile.endsWith("css")) {
+		data = new cssminify({
+			level: 2
+		}).minify(data).styles
+	}
 	return fs.writeFile(outputFile, data, (e) => {
 		if (e) {
 			return console.log(e)

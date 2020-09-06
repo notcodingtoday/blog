@@ -7,6 +7,7 @@ if (process.argv[2] == "watch") {
 	page.watchAbout()
 } else {
 	blog.processBlog()
+	blog.processCSS()
 	page.processIndex()
 	page.processAbout()
 }
