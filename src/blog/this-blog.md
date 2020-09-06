@@ -1,8 +1,6 @@
 <h1>Third iteration of blogging</h1>
 <div class="center" md>2020-09-01</div>
 
-<md>
-
 ## My first blog
 
 My first blog was in Wordpress. It got things done, and I was happy. Although I was never happy how sloggy it was, I knew nothing about web development so I dealt with it.
@@ -34,5 +32,3 @@ To check out the implementation, visit [github.com/notcodingtoday/blog](https://
 Hopefully, this is my last iteration. I hope to fill this blog with my game dev, music and other nerdy software engineering things.
 
 Cheers.
-
-</md>

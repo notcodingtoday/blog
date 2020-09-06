@@ -36,14 +36,13 @@ function readFile(file, callback) {
 
 function writeFile(outputFile, data, inputFile) {
   if (outputFile.endsWith("html")) {
-    data = htmlminify(data, {
-      removeAttributeQuotes: true,
-      collapseWhitespace: true,
-      removeAttributeQuotes: true,
-      removeEmptyAttributes: true,
-      removeEmptyElements: true,
-      removeOptionalTags: true,
-    })
+    // data = htmlminify(data, {
+    //   collapseWhitespace: true,
+    //   removeAttributeQuotes: true,
+    //   removeEmptyAttributes: true,
+    //   removeEmptyElements: true,
+    //   removeOptionalTags: true,
+    // })
   } else if (outputFile.endsWith("css")) {
     data = new cssminify({
       level: 2

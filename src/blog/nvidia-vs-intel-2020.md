@@ -1,8 +1,6 @@
 <h1>Nvidia vs Intel launch 2020</h1>
 <div class="center" md>2020-09-05</div>
 
-<md>
-
 ## tl;dr
 
 Nvidia was a chad shrek flexing. Intel was a salty jealous boi calling names.
@@ -12,13 +10,9 @@ Nvidia was a chad shrek flexing. Intel was a salty jealous boi calling names.
 Given that RTX 20 series [launched back in 2018](https://en.wikipedia.org/wiki/GeForce_20_series), a refresh in the product was somewhat expected.
 But the unexpected high performance increase was a happy surprise for everyone:
 
-</md>
-
 <div class="youtube">
 	<iframe src="https://www.youtube-nocookie.com/embed/E98hC9e__Xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-<md>
 
 tl;dw: you get the best performing card in previous gen for USD$499 in new generation. Nvidia also flexed 8k@60fps with RTX 3090 (ie. Titan).
 
@@ -44,13 +38,9 @@ Intel is losing CPU market share to AMD. [Steam HW survey](https://store.steampo
 
 Intel, not surprisingly, decided to steal the show from AMD - who announced the octa-core 4800U about 8 months ago:
 
-</md>
-
 <div class="youtube">
 	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8Kv4QF1_t-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-<md>
 
 ### Textbook of bad announcements
 
@@ -73,5 +63,3 @@ I'd never accept my work presented in such an unprofessional presentation. I am 
 ## Two announcements, one winner
 
 I think the videos got more eyeballs than usual thanks to 2020 being the year of staying indoors and few releases - ie. Intel's PR failure got amplified thanks to COVID. That said, if there wasn't Nvidia's announcement, Intel's failure would not have looked this bad.. May be not.
-
-</md>

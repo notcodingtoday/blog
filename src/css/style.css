@@ -10,6 +10,10 @@
   margin: auto;
 }
 
+.blog img {
+  width: 100%;
+}
+
 .blog ol, .blog ul {
   width: 80%;
   margin: auto;

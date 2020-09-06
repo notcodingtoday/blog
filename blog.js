@@ -1,6 +1,7 @@
 const posthtml = require('posthtml')
-const posthtmlmd = require('posthtml-md')
 const posthtmlextend = require('posthtml-extend')
+const marked = require('marked')
+const hljs = require('highlight.js')
 const common = require('./common')
 
 
@@ -10,13 +11,17 @@ function processBlog() {
     let outputFile = common.BLOG_OUTPUT_DIR + file.replace(".md", ".html")
     common.readFile(inputFile, (data) => {
       posthtml([
-        posthtmlmd(),
         posthtmlextend({
           encoding: 'utf8',
           root: common.TEMPLATES_DIR
         })
       ])
-      .process(blogTemplate(data))
+      .process(blogTemplate(marked(data, {
+        highlight: (code, language) => {
+          const validLanguage = hljs.getLanguage(language) ? language : 'plaintext';
+          return hljs.highlight(validLanguage, code).value;
+        },
+      })))
       .catch((err) => {
         console.log(err)
       })

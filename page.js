@@ -1,6 +1,6 @@
 const posthtml = require('posthtml')
-const posthtmlmd = require('posthtml-md')
 const posthtmlextend = require('posthtml-extend')
+const marked = require('marked')
 const fs = require('fs');
 const common = require('./common')
 const blog = require('./blog')
@@ -11,14 +11,13 @@ function processAbout() {
 
   common.readFile(inputFile, (data) => {
     posthtml([
-      posthtmlmd(),
       posthtmlextend({
         encoding: 'utf8',
         root: common.TEMPLATES_DIR
       })
     ])
     .process(
-      pageTemplate("About ", data)
+      pageTemplate("About ", marked(data))
     )
     .then((result) => {
       common.writeFile(outputFile, result.html, inputFile)

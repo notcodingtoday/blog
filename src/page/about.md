@@ -1,16 +1,10 @@
-<md>
-
 # Profile
 
-</md>
-
-<div md class="center">
+<div class="center">
 
 [GitHub](https://github.com/notcodingtoday) | [@notcodingtoday](https://twitter.com/notcodingtoay)
 
 </div>
-
-<md>
 
 ```
 Name  : Nocoto. Call me Noco.
@@ -38,5 +32,3 @@ Political view : I equally make make fun of everyone :)
 ## Non-tech & non-nerdy hobbies
 
 Playing electric guitar, gymming, blogging.
-
-</md>
