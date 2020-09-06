@@ -1,129 +1,129 @@
 .blog {
-	font-family: 'Bitter', sans-serif;
-	-moz-osx-font-smoothing: grayscale;
+  font-family: 'Bitter', sans-serif;
+  -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased !important;
   -moz-font-smoothing: antialiased !important;
-	text-rendering: optimizeLegibility !important;
-	letter-spacing: .02em;
-	line-height: 1.5em;
-	max-width: 650px;
-	margin: auto;
+  text-rendering: optimizeLegibility !important;
+  letter-spacing: .02em;
+  line-height: 1.5em;
+  max-width: 650px;
+  margin: auto;
 }
 
 .blog ol, .blog ul {
-	width: 80%;
-	margin: auto;
-	padding-inline-start: 0;
+  width: 80%;
+  margin: auto;
+  padding-inline-start: 0;
 }
 
 .blog ol li {
-	padding-left: 1em;
+  padding-left: 1em;
 }
 
 .blog div.center, .blog .youtube {
-	text-align: center;
+  text-align: center;
 }
 
 .blog .youtube {
-	width: 100%;
+  width: 100%;
   padding-top: 56.25%;
   position: relative;
 }
 
 .blog .youtube iframe {
-	position: absolute;
-	top: 0;
+  position: absolute;
+  top: 0;
   left: 0;
   bottom: 0;
-	right: 0;
-	width: 100%;
-	height: 100%;
+  right: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .blog table {
-	margin: auto;
+  margin: auto;
 }
 
 h1 {
-	text-align: center;
+  text-align: center;
 }
 
 hr {
-	border-top: 1px solid #e0e0e0;
-	border-bottom: none;
+  border-top: 1px solid #e0e0e0;
+  border-bottom: none;
 }
 
 h1, h2, h3 {
-	font-family: 'Barlow', sans-serif;
-	font-weight: 400;
+  font-family: 'Barlow', sans-serif;
+  font-weight: 400;
 }
 
 h2, h3 {
-	margin-top: 2em;
+  margin-top: 2em;
 }
 
 footer {
-	margin-top: 3em;
-	padding-bottom: 3em;
-	color: #bdbdbd;
+  margin-top: 3em;
+  padding-bottom: 3em;
+  color: #bdbdbd;
 }
 
 header .navigation {
-	padding: 1em 0 1em 0;
+  padding: 1em 0 1em 0;
 }
 
 .post-list .entry {
-	margin-top: 2em;
+  margin-top: 2em;
 }
 
 .post-list .entry .date {
-	font-family: 'Inconsolata';
+  font-family: 'Inconsolata';
 }
 
 header .navigation a, .post-list .entry a {
-	background: black;
-	color: white;
-	text-decoration: none;
-	padding: 0.42em;
+  background: black;
+  color: white;
+  text-decoration: none;
+  padding: 0.42em;
 }
 
 header .navigation a:hover, .post-list .entry a:hover {
-	background: white;
-	color: black;
+  background: white;
+  color: black;
 }
 
 header {
-	margin: 0 auto 5em auto;
+  margin: 0 auto 5em auto;
 }
 
 footer {
-	margin: 5em auto 0 auto;
+  margin: 5em auto 0 auto;
 }
 
 header, footer {
-	font-family: 'Barlow', sans-serif;
-	font-weight: 200;
-	text-align: center;
-	user-select: none;
-	-moz-user-select: none;
-	-webkit-user-drag: none;
-	-webkit-user-select: none;
-	-ms-user-select: none;
-	max-width: 860px;
+  font-family: 'Barlow', sans-serif;
+  font-weight: 200;
+  text-align: center;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  max-width: 860px;
 }
 
 code {
-	font-family: 'Inconsolata';
+  font-family: 'Inconsolata';
 }
 
 pre {
-	background-color: #efefef;
-	padding: 1em;
-	overflow-x: scroll;
+  background-color: #efefef;
+  padding: 1em;
+  overflow-x: scroll;
 }
 
 body {
-	margin: 1em;
+  margin: 1em;
 }
 
 ::-webkit-scrollbar {
