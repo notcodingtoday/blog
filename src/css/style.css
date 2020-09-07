@@ -124,6 +124,7 @@ pre {
   background-color: #efefef;
   padding: 1em;
   overflow-x: scroll;
+  max-height: 30em;
 }
 
 body {

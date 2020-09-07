@@ -1,5 +1,5 @@
 <h1>Nvidia vs Intel launch 2020</h1>
-<div class="center" md>2020-09-05</div>
+<div class="center">2020-09-05</div>
 
 ## tl;dr
 

@@ -1,5 +1,5 @@
 <h1>Third iteration of blogging</h1>
-<div class="center" md>2020-09-01</div>
+<div class="center">2020-09-01</div>
 
 ## My first blog
 
