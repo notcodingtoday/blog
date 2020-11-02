@@ -31,4 +31,4 @@ Political view : I equally make make fun of everyone :)
 
 ## Non-tech & non-nerdy hobbies
 
-Playing electric guitar, gymming, blogging.
+Playing electric guitar, singing, gymming, blogging.

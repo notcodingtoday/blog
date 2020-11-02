@@ -48,6 +48,20 @@
   margin: auto;
 }
 
+.portrait {
+  text-align: center;
+}
+
+.portrait img {
+  width: auto;
+  height: 20em;
+}
+
+.image-desc p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 h1 {
   text-align: center;
 }
