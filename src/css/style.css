@@ -74,6 +74,7 @@ hr {
 h1, h2, h3 {
   font-family: 'Barlow', sans-serif;
   font-weight: 400;
+  line-height: 1.2em;
 }
 
 h2, h3 {
@@ -103,6 +104,7 @@ header .navigation a, .post-list .entry a {
   color: white;
   text-decoration: none;
   padding: 0.42em;
+  display: inline-block;
 }
 
 header .navigation a:hover, .post-list .entry a:hover {
