@@ -5,9 +5,7 @@
   "main": "main.js",
   "scripts": {
     "host": "cd public && http-server",
-    "start": "node main.js",
-    "process": "node main.js",
-    "watch": "node main.js watch"
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",

@@ -17,14 +17,14 @@ mkdir -p public/images
 Process and host the blog locally
 
 ```bash
-npm run process
+npm start process
 npm run host
 ```
 
 Watch the `src` files and regenerate blog
 
 ```bash
-npm run watch
+npm start watch
 ```
 
 ## Dependencies
