@@ -15,8 +15,8 @@ function extractDateFromPost(data) {
 
 function watch(inputFile, onChangeCallback) {
   console.log(`Watching ${inputFile}`)
-  return fs.watch(inputFile, { interval: 500 }, (event, filename) => {
-    if (filename && event === 'change') {
+  return fs.watchFile(inputFile, { interval: 500 }, (curr, prev) => {
+    if (curr.mtime != prev.mtime) {
       console.log(`Changed: ${inputFile}`)
       onChangeCallback()
     }
