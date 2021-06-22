@@ -8,7 +8,7 @@
 
 ```
 Name  : Nocoto. Call me Noco.
-Job   : Software Engineer (SRE) at one of FAANG companies.
+Job   : Software Engineer (SRE) at one of FAAMNG companies.
 Location    : Not US. Never planning to work or live there.
 Work years  : Around 3 years as of 2020.
 Music taste : Better than yours.

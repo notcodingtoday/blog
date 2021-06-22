@@ -16,18 +16,18 @@ function processBlog() {
           root: common.TEMPLATES_DIR
         })
       ])
-      .process(blogTemplate(marked(data, {
-        highlight: (code, language) => {
-          const validLanguage = hljs.getLanguage(language) ? language : 'plaintext';
-          return hljs.highlight(validLanguage, code).value;
-        },
-      })))
-      .catch((err) => {
-        console.log(err)
-      })
-      .then((result) => {
-        common.writeFile(outputFile, result.html, inputFile)
-      })
+        .process(blogTemplate(marked(data, {
+          highlight: (code, language) => {
+            const validLanguage = hljs.getLanguage(language) ? language : 'plaintext';
+            return hljs.highlight(code, { language: validLanguage, ignoreIllegals: true }).value;
+          },
+        })))
+        .catch((err) => {
+          console.log(err)
+        })
+        .then((result) => {
+          common.writeFile(outputFile, result.html, inputFile)
+        })
     })
   })
 }
