@@ -7,28 +7,25 @@
 </div>
 
 ```
-Name  : Nocoto. Call me Noco.
-Job   : Software Engineer (SRE) at one of FAAMNG companies.
+Name  : Nocoto Day, call me Nocoto
+Job   : Software Engineer at big tech
 Location    : Not US. Never planning to work or live there.
-Work years  : Around 3 years as of 2020.
 Music taste : Better than yours.
 Gaming taste   : Wide. Very wide.
-Political view : I equally make make fun of everyone :)
+Political view : Listen to both sides.
 ```
 
 ## I am good at
 
 - Scoping work and setting expectations.
 - Global-scale build and release systems.
-- Shaders.
+- Shaders that look pretty.
 
-## I am currently working on
+## Ongoing personal projects
 
-- Global, replicated, eventually-consistent database storage.
-- Distributed global game server.
-- [Mabinogi](https://mabinogi.nexon.net/) game clone.
+- [Game development](https://eggrice.soy/).
 - Music covers.
 
 ## Non-tech & non-nerdy hobbies
 
-Playing electric guitar, singing, gymming, blogging.
+Playing electric guitar, singing, gymming (big3 400kg), blogging.
