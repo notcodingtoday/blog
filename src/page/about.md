@@ -8,7 +8,7 @@
 
 ```
 Name  : Nocoto Day, call me Nocoto
-Job   : Software Engineer at big tech
+Job   : Software Engineer at BigTech
 Location    : Not US. Never planning to work or live there.
 Music taste : Better than yours.
 Gaming taste   : Wide. Very wide.
