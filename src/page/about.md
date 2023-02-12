@@ -20,6 +20,7 @@ Political view : Listen to both sides.
 - Scoping work and setting expectations.
 - Global-scale build and release systems.
 - Shaders that look pretty.
+- Managing stuff
 
 ## Ongoing personal projects
 
