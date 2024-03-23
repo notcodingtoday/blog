@@ -7,20 +7,19 @@
 </div>
 
 ```
-Name  : Nocoto Day, call me Nocoto
-Job   : Software Engineer at BigTech
-Location    : Not US. Never planning to work or live there.
-Music taste : Better than yours.
-Gaming taste   : Wide. Very wide.
-Political view : Listen to both sides.
+Name     : Nocoto Day. You can call me Noco.
+Job      : Software Engineer at big tech.
+Location : Not US.
+Politics : Listen to both sides.
+Cat/Dog  : Both!
 ```
 
 ## I am good at
 
 - Scoping work and setting expectations.
-- Global-scale build and release systems.
-- Shaders that look pretty.
-- Managing stuff
+- Global-scale infrastructure design and management.
+- Diving into areas of unknown and delivering sustainable results.
+- People-relationship management and emotional de-escalation.
 
 ## Ongoing personal projects
 
@@ -29,4 +28,4 @@ Political view : Listen to both sides.
 
 ## Non-tech & non-nerdy hobbies
 
-Playing electric guitar, singing, gymming (big3 400kg), blogging.
+Playing electric guitar, singing, gymming (big3 400kg), blogging, photography.
